@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>TodoLists</title>
+    {% load static %}
+     <link rel="stylesheet" type="text/css" href="{% static 'todo/style.css' %}" />
+</head>
+<body>
+
+<h1 align=" center">Colleges List</h1>
+
+<table style="color:blue" align="center" border="width:100%"><tr>
+    <th>Id</th>
+    <th>Name</th>
+    <th>Creation Date</th>
+    </tr>
+{%for list in tlists%}
+    <tr>
+        <td style="color:blue">{{list.id}}</td>
+        <td style="color:blue"><a href="{% url 'todo:item' list.id %}">{{list.name}}</a></td>
+        <td style="color:blue">{{list.creation_date}}</td>
+    </tr>
+    {% endfor %}
+</table>
+</body>
+</html>

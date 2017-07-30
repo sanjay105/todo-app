@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "D ManiChandana",
+    "db_folder": "manichandana",
+    "email": "dydachandanareddy@gmail.com",
+    "college": 1,
+    "dropped_out": true
+  },
+  {
+    "id": 2,
+    "name": "AKHIL VENKATA MANIKANTA KUMAR CHITTURI",
+    "db_folder": "manikanta",
+    "email": "avmanikanta23@gmail.com",
+    "college": 22,
+    "dropped_out": true
+  },
+  {
+    "id": 3,
+    "name": "Illuri vijaya lakshmi",
+    "db_folder": "vlakshmi",
+    "email": "illuri.vijayalakshmi2@gmail.com",
+    "college": 22,
+    "dropped_out": true
+  } 
+]

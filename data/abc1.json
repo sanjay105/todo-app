@@ -1,0 +1,946 @@
+[
+  {
+    "id": 1,
+    "name": "D ManiChandana",
+    "db_folder": "manichandana",
+    "email": "dydachandanareddy@gmail.com",
+    "college": 1,
+    "dropped_out": true
+  },
+  {
+    "id": 2,
+    "name": "AKHIL VENKATA MANIKANTA KUMAR CHITTURI",
+    "db_folder": "manikanta",
+    "email": "avmanikanta23@gmail.com",
+    "college": 22,
+    "dropped_out": true
+  },
+  {
+    "id": 3,
+    "name": "Illuri vijaya lakshmi",
+    "db_folder": "vlakshmi",
+    "email": "illuri.vijayalakshmi2@gmail.com",
+    "college": 22,
+    "dropped_out": true
+  },
+  {
+    "id": 4,
+    "name": "BASAVA SAHITHI SRINANDA",
+    "db_folder": "srinanda",
+    "email": "basavasahithi@gmail.com",
+    "college": 4,
+    "dropped_out": true
+  },
+  {
+    "id": 5,
+    "name": "yamala prathyusha",
+    "db_folder": "prathyusha",
+    "email": "prathyushayamala@gmail.com",
+    "college": 4,
+    "dropped_out": true
+  },
+  {
+    "id": 6,
+    "name": "bh prithvi raju",
+    "db_folder": "prithviraju",
+    "email": "bhprudhviraju05@gmail.com",
+    "college": 2,
+    "dropped_out": true
+  },
+  {
+    "id": 7,
+    "name": "Tammina Rajasekhar",
+    "db_folder": "rajasekhar",
+    "email": "tammina.rajasekhar@gmail.com",
+    "college": 3,
+    "dropped_out": true
+  },
+  {
+    "id": 8,
+    "name": "Vuddagiri Harika Bhavani",
+    "db_folder": "harika",
+    "email": "vuddagiriharika@gmail.com",
+    "college": 5,
+    "dropped_out": true
+  },
+  {
+    "id": 9,
+    "name": "Yelamarthi Naga Manasa Valli",
+    "db_folder": "manasa",
+    "email": "manasa.valli95@gmail.com",
+    "college": 12,
+    "dropped_out": true
+  },
+  {
+    "id": 10,
+    "name": "Venkatesh Samhitha",
+    "db_folder": "samhitha",
+    "email": "samhitha2896@gmail.com",
+    "college": 13,
+    "dropped_out": true
+  },
+  {
+    "id": 11,
+    "name": "P.Harini Reddy",
+    "db_folder": "harini",
+    "email": "harininikki@gmail.com",
+    "college": 13,
+    "dropped_out": true
+  },
+  {
+    "id": 12,
+    "name": "Naveen",
+    "db_folder": "naveen",
+    "email": "naveentechworld@gmail.com",
+    "college": 21,
+    "dropped_out": true
+  },
+  {
+    "id": 13,
+    "name": "Bharat Varma",
+    "db_folder": "bharatv",
+    "email": "bharatvarma1911@gmail.com",
+    "college": 2,
+    "dropped_out": true
+  },
+  {
+    "id": 14,
+    "name": "Ch Geeth Sekhar",
+    "db_folder": "geeth",
+    "email": "geethchadalawada@gmail.com",
+    "college": 19,
+    "dropped_out": false
+  },
+  {
+    "id": 15,
+    "name": "Dheeraj Kumar M",
+    "db_folder": "dheeraj",
+    "email": "dheerajkumar.mamidi@gmail.com",
+    "college": 19,
+    "dropped_out": false
+  },
+  {
+    "id": 16,
+    "name": "Dinesh Vujuru",
+    "db_folder": "dinesh",
+    "email": "dinesh1729v@gmail.com",
+    "college": 19,
+    "dropped_out": false
+  },
+  {
+    "id": 17,
+    "name": "gnss venkatesh",
+    "db_folder": "venkatesh",
+    "email": "gnssvenkatesh@gmail.com",
+    "college": 19,
+    "dropped_out": false
+  },
+  {
+    "id": 18,
+    "name": "M.KAMALA REDDY",
+    "db_folder": "kamala",
+    "email": "kamalareddy159@gmail.com",
+    "college": 19,
+    "dropped_out": false
+  },
+  {
+    "id": 19,
+    "name": "Nalajala Manoj Atchut",
+    "db_folder": "manoja",
+    "email": "manojatchut2209@gmail.com",
+    "college": 19,
+    "dropped_out": false
+  },
+  {
+    "id": 20,
+    "name": "sirisha patnana",
+    "db_folder": "sirisha",
+    "email": "patnanasiri15@gmail.com",
+    "college": 19,
+    "dropped_out": false
+  },
+  {
+    "id": 21,
+    "name": "Sruthi Chinnibilli",
+    "db_folder": "sruthichinb",
+    "email": "chinnibilli.sruthi@gmail.com",
+    "college": 19,
+    "dropped_out": false
+  },
+  {
+    "id": 22,
+    "name": "VYSYARAJU KAVYA",
+    "db_folder": "kavya",
+    "email": "vkavya.13.cse@anits.edu.in",
+    "college": 19,
+    "dropped_out": false
+  },
+  {
+    "id": 23,
+    "name": "Ganugula.Jagadeesh",
+    "db_folder": "jagadeesh",
+    "email": "bvrdjagadeesh@gmail.com",
+    "college": 16,
+    "dropped_out": false
+  },
+  {
+    "id": 24,
+    "name": "Rohith Reddy Challa",
+    "db_folder": "rohithc",
+    "email": "rohithreddy24@hotmail.com",
+    "college": 16,
+    "dropped_out": false
+  },
+  {
+    "id": 25,
+    "name": "Bhargava Ravali Koganti",
+    "db_folder": "ravalik",
+    "email": "ravali.888@gmail.com",
+    "college": 17,
+    "dropped_out": false
+  },
+  {
+    "id": 26,
+    "name": "Flora Moses",
+    "db_folder": "flora",
+    "email": "flora2548@gmail.com",
+    "college": 17,
+    "dropped_out": false
+  },
+  {
+    "id": 27,
+    "name": "J Sandhya",
+    "db_folder": "sandhya",
+    "email": "sandyajanu96@gmail.com",
+    "college": 17,
+    "dropped_out": false
+  },
+  {
+    "id": 28,
+    "name": "Neelima Datla",
+    "db_folder": "neelima",
+    "email": "neelimadatla16@gmail.com",
+    "college": 17,
+    "dropped_out": false
+  },
+  {
+    "id": 29,
+    "name": "ramya",
+    "db_folder": "ramya",
+    "email": "ramya.konkala1995@gmail.com",
+    "college": 17,
+    "dropped_out": false
+  },
+  {
+    "id": 30,
+    "name": "sabhitha vangaveti",
+    "db_folder": "sabhitha",
+    "email": "sabhitha.v@gmail.com",
+    "college": 17,
+    "dropped_out": false
+  },
+  {
+    "id": 31,
+    "name": "A.M.S.PRASHANTH",
+    "db_folder": "prashanthams",
+    "email": "apprashanth55@gmail.com",
+    "college": 18,
+    "dropped_out": false
+  },
+  {
+    "id": 32,
+    "name": "AVINASH BONDALAPATI",
+    "db_folder": "avinashb",
+    "email": "avinashbondalapati@gmail.com",
+    "college": 18,
+    "dropped_out": false
+  },
+  {
+    "id": 33,
+    "name": "Avinash Karusala",
+    "db_folder": "avinashk",
+    "email": "karusala.avinash@gmail.com",
+    "college": 18,
+    "dropped_out": false
+  },
+  {
+    "id": 34,
+    "name": "CHINTHANIPPU SRUTHI",
+    "db_folder": "sruthichint",
+    "email": "sruthichinthanippu.ch@gmail.com",
+    "college": 18,
+    "dropped_out": false
+  },
+  {
+    "id": 35,
+    "name": "P. Sri Lakshmi Sruthi",
+    "db_folder": "lakshmipsri",
+    "email": "psrilakshmisruthi@gmail.com",
+    "college": 18,
+    "dropped_out": false
+  },
+  {
+    "id": 36,
+    "name": "P.G.VISHNU VARDHAN",
+    "db_folder": "vishnu",
+    "email": "vishnuponaganti@gmail.com",
+    "college": 18,
+    "dropped_out": false
+  },
+  {
+    "id": 37,
+    "name": "SriKeerthan Reddy",
+    "db_folder": "srikeerthan",
+    "email": "srikeerthanreddy@gmail.com",
+    "college": 18,
+    "dropped_out": false
+  },
+  {
+    "id": 38,
+    "name": "T.sravanidurga",
+    "db_folder": "sravanidurga",
+    "email": "sravanidurga1504@gmail.com",
+    "college": 18,
+    "dropped_out": false
+  },
+  {
+    "id": 39,
+    "name": "Aditya Gampa",
+    "db_folder": "adityagampa",
+    "email": "adityagampa149@gmail.com",
+    "college": 20,
+    "dropped_out": false
+  },
+  {
+    "id": 40,
+    "name": "Rahul Bojanapally",
+    "db_folder": "rahul",
+    "email": "rahul.b246@gmail.com",
+    "college": 20,
+    "dropped_out": false
+  },
+  {
+    "id": 41,
+    "name": "raviteja",
+    "db_folder": "raviteja",
+    "email": "gannaraputeja@gmail.com",
+    "college": 20,
+    "dropped_out": false
+  },
+  {
+    "id": 42,
+    "name": "Theja Shree",
+    "db_folder": "theja",
+    "email": "thejashree@gmail.com",
+    "college": 20,
+    "dropped_out": false
+  },
+  {
+    "id": 43,
+    "name": "venkat sri sai ram",
+    "db_folder": "vssram",
+    "email": "s.venkatsrisairam@gmail.com",
+    "college": 20,
+    "dropped_out": false
+  },
+  {
+    "id": 44,
+    "name": "Pratik Patel",
+    "db_folder": "pratik",
+    "email": "pratikpatel15133@gmail.com",
+    "college": 21,
+    "dropped_out": false
+  },
+  {
+    "id": 45,
+    "name": "Ashuthosh Heda",
+    "db_folder": "ashuthosh",
+    "email": "ashuthosh.heda@gmail.com",
+    "college": 1,
+    "dropped_out": false
+  },
+  {
+    "id": 46,
+    "name": "Chirag Anand",
+    "db_folder": "anand",
+    "email": "chirag.anand02@gmail.com",
+    "college": 1,
+    "dropped_out": false
+  },
+  {
+    "id": 47,
+    "name": "Divyank Vemulapalli",
+    "db_folder": "divyank",
+    "email": "divyank554@gmail.com",
+    "college": 1,
+    "dropped_out": false
+  },
+  {
+    "id": 48,
+    "name": "G.Sana Parveen",
+    "db_folder": "parveen",
+    "email": "sanaparvin786@gmail.com",
+    "college": 1,
+    "dropped_out": false
+  },
+  {
+    "id": 49,
+    "name": "Golkonda Manoj Kumar",
+    "db_folder": "manojk",
+    "email": "golkondamanoj@gmail.com",
+    "college": 1,
+    "dropped_out": false
+  },
+  {
+    "id": 50,
+    "name": "Harshi S Shah",
+    "db_folder": "harshi",
+    "email": "harshishah1607@gmail.com",
+    "college": 1,
+    "dropped_out": false
+  },
+  {
+    "id": 51,
+    "name": "Harshit Kumar",
+    "db_folder": "harshit",
+    "email": "hrsht.kumar1@gmail.com",
+    "college": 1,
+    "dropped_out": false
+  },
+  {
+    "id": 52,
+    "name": "kathari akhila",
+    "db_folder": "akhilak",
+    "email": "kathariakhila@gmail.com",
+    "college": 1,
+    "dropped_out": false
+  },
+  {
+    "id": 53,
+    "name": "Kusthapuram Madhusudhan Reddy",
+    "db_folder": "madhusudhan",
+    "email": "kmadhusudhanreddy3@gmail.com",
+    "college": 1,
+    "dropped_out": false
+  },
+  {
+    "id": 54,
+    "name": "Mani Kumar Reddy Kancharla",
+    "db_folder": "mani",
+    "email": "kmanikumarreddy@live.com",
+    "college": 1,
+    "dropped_out": false
+  },
+  {
+    "id": 55,
+    "name": "Merugu Vaishnavi",
+    "db_folder": "vaishnavim",
+    "email": "vaish.reddy05@gmail.com",
+    "college": 1,
+    "dropped_out": false
+  },
+  {
+    "id": 56,
+    "name": "Pritheesh Panchmahalkar",
+    "db_folder": "pritheesh",
+    "email": "p.priteesh@gmail.com",
+    "college": 1,
+    "dropped_out": false
+  },
+  {
+    "id": 57,
+    "name": "Sheripally chandana",
+    "db_folder": "chandana",
+    "email": "sheripallychandana@hotmail.com",
+    "college": 1,
+    "dropped_out": false
+  },
+  {
+    "id": 58,
+    "name": "Aneesh ",
+    "db_folder": "aneesh",
+    "email": "aneesh.ravishankar@gmail.com",
+    "college": 2,
+    "dropped_out": false
+  },
+  {
+    "id": 59,
+    "name": "Bhavvishyya Mandalapu",
+    "db_folder": "bhavvishyya",
+    "email": "bhavvishyya@gmail.com",
+    "college": 2,
+    "dropped_out": false
+  },
+  {
+    "id": 60,
+    "name": "K Sai Kalyan",
+    "db_folder": "kalyan",
+    "email": "saikalyan.16k@gmail.com",
+    "college": 2,
+    "dropped_out": false
+  },
+  {
+    "id": 61,
+    "name": "monika avalur",
+    "db_folder": "monika",
+    "email": "monika.avalur@Gmail.com",
+    "college": 2,
+    "dropped_out": false
+  },
+  {
+    "id": 62,
+    "name": "P GAUTHAMI",
+    "db_folder": "gauthami",
+    "email": "gauthamip26@gmail.com",
+    "college": 2,
+    "dropped_out": false
+  },
+  {
+    "id": 63,
+    "name": "Patan Sanaulla Khan ",
+    "db_folder": "patan",
+    "email": "spatankhan@gmail.com",
+    "college": 2,
+    "dropped_out": false
+  },
+  {
+    "id": 64,
+    "name": "Vaibhav Gupta",
+    "db_folder": "vaibhavg",
+    "email": "vaibhavdkg@gmail.com",
+    "college": 2,
+    "dropped_out": false
+  },
+  {
+    "id": 65,
+    "name": "VASA.PRASHANTH",
+    "db_folder": "prashanthv",
+    "email": "prashanthvasa55@gmail.com",
+    "college": 2,
+    "dropped_out": false
+  },
+  {
+    "id": 66,
+    "name": "Satya sai ram Borra",
+    "db_folder": "satya",
+    "email": "satyasairam.borra@gmail.com",
+    "college": 3,
+    "dropped_out": false
+  },
+  {
+    "id": 67,
+    "name": "B.VENKATA RAMANA",
+    "db_folder": "ramana",
+    "email": "venkataramanaedu@gmail.com",
+    "college": 4,
+    "dropped_out": false
+  },
+  {
+    "id": 68,
+    "name": "CHITRADA MANOJ",
+    "db_folder": "manojc",
+    "email": "chitrada.manoj@gmail.com",
+    "college": 4,
+    "dropped_out": false
+  },
+  {
+    "id": 69,
+    "name": "G.S.K Sivesh",
+    "db_folder": "sivesh",
+    "email": "gsksivesh@gmail.com",
+    "college": 4,
+    "dropped_out": false
+  },
+  {
+    "id": 70,
+    "name": "GAYATRI PARAMESWARAN",
+    "db_folder": "gayatri",
+    "email": "gayu.p7@gmail.com",
+    "college": 4,
+    "dropped_out": false
+  },
+  {
+    "id": 71,
+    "name": "kakarla.vinod kumar",
+    "db_folder": "vinod",
+    "email": "vinodkakarla564@gmail.com",
+    "college": 4,
+    "dropped_out": false
+  },
+  {
+    "id": 72,
+    "name": "kambhampati venkata dharmista",
+    "db_folder": "dharmista",
+    "email": "dharmista345@gmail.com",
+    "college": 4,
+    "dropped_out": false
+  },
+  {
+    "id": 73,
+    "name": "Kattamuru Phaniraj",
+    "db_folder": "phaniraj",
+    "email": "kattamuruphani1616@gmail.com",
+    "college": 4,
+    "dropped_out": false
+  },
+  {
+    "id": 74,
+    "name": "Koyadala Venkat Vaibhav",
+    "db_folder": "vaibhavk",
+    "email": "vaibhavkoyadala@gmail.com",
+    "college": 4,
+    "dropped_out": false
+  },
+  {
+    "id": 75,
+    "name": "Pabbaraju Pujitha",
+    "db_folder": "pujitha",
+    "email": "pabbarajupoojita@gmail.com",
+    "college": 4,
+    "dropped_out": false
+  },
+  {
+    "id": 76,
+    "name": "Yellapragada Sravya",
+    "db_folder": "sravyay",
+    "email": "sravyaysk@gmail.com",
+    "college": 4,
+    "dropped_out": false
+  },
+  {
+    "id": 77,
+    "name": "Athipatla.Viashnavi",
+    "db_folder": "vaishnavia",
+    "email": "vaishnaviathipatla@gmail.com",
+    "college": 4,
+    "dropped_out": false
+  },
+  {
+    "id": 78,
+    "name": "Elamarthy Venkata Navya",
+    "db_folder": "navya",
+    "email": "evnavya@gmail.com",
+    "college": 5,
+    "dropped_out": false
+  },
+  {
+    "id": 79,
+    "name": "Shilpa Thakur",
+    "db_folder": "shilpa",
+    "email": "thakur.shilpa95@gmail.com",
+    "college": 6,
+    "dropped_out": false
+  },
+  {
+    "id": 80,
+    "name": "Shubham Agarwal",
+    "db_folder": "shubham",
+    "email": "shubhamagarwal9625@gmail.com",
+    "college": 6,
+    "dropped_out": false
+  },
+  {
+    "id": 81,
+    "name": "Bhargav Reddi",
+    "db_folder": "bhargav",
+    "email": "bhargav2014duggu@gmail.com",
+    "college": 7,
+    "dropped_out": false
+  },
+  {
+    "id": 82,
+    "name": "Naveen Sai kiran kolli",
+    "db_folder": "naveenskk",
+    "email": "naveensaikolli@gmail.com",
+    "college": 7,
+    "dropped_out": false
+  },
+  {
+    "id": 83,
+    "name": "Pavan kumar",
+    "db_folder": "pavan",
+    "email": "pkonathala704@gmail.com",
+    "college": 7,
+    "dropped_out": false
+  },
+  {
+    "id": 84,
+    "name": "akhil gudipati",
+    "db_folder": "akhilg",
+    "email": "akhil.gudipati@gmail.com",
+    "college": 8,
+    "dropped_out": false
+  },
+  {
+    "id": 85,
+    "name": "Putta Harshitha",
+    "db_folder": "harshitha",
+    "email": "harshitharede@gmail.com",
+    "college": 8,
+    "dropped_out": false
+  },
+  {
+    "id": 86,
+    "name": "Aditya",
+    "db_folder": "aditya",
+    "email": "dasamantarao.aditya@gmail.com",
+    "college": 9,
+    "dropped_out": false
+  },
+  {
+    "id": 87,
+    "name": "PRAVEENKUMAR MUTCHARLA",
+    "db_folder": "praveen",
+    "email": "praveenkumarmutcharla94@gmail.com",
+    "college": 9,
+    "dropped_out": false
+  },
+  {
+    "id": 88,
+    "name": "A Aashish Ram Chand",
+    "db_folder": "aashish",
+    "email": "aashish647@gmail.com",
+    "college": 10,
+    "dropped_out": false
+  },
+  {
+    "id": 89,
+    "name": "sri divya",
+    "db_folder": "sridivya",
+    "email": "sridivyasb@gmail.com",
+    "college": 10,
+    "dropped_out": false
+  },
+  {
+    "id": 90,
+    "name": "T Bharath Chandra",
+    "db_folder": "bharath",
+    "email": "tallojubharath@gmail.com",
+    "college": 10,
+    "dropped_out": false
+  },
+  {
+    "id": 91,
+    "name": "IRFAN MOHIDDIN MOHAMMAD",
+    "db_folder": "irfan",
+    "email": "nafri.irfan96@gmail.com",
+    "college": 11,
+    "dropped_out": false
+  },
+  {
+    "id": 92,
+    "name": "Narayana Vinay",
+    "db_folder": "narayana",
+    "email": "babivinay@gmail.com",
+    "college": 11,
+    "dropped_out": false
+  },
+  {
+    "id": 93,
+    "name": "Asha Jyothi",
+    "db_folder": "asha",
+    "email": "ashajyothiredrouthu@gmail.com",
+    "college": 12,
+    "dropped_out": false
+  },
+  {
+    "id": 94,
+    "name": "K. Sravya",
+    "db_folder": "sravyak",
+    "email": "sravya.kanagarla96@gmail.com",
+    "college": 12,
+    "dropped_out": false
+  },
+  {
+    "id": 95,
+    "name": "Aiswarya ",
+    "db_folder": "aiswarya",
+    "email": "Aiswaryaguptha36@gmail.com",
+    "college": 13,
+    "dropped_out": false
+  },
+  {
+    "id": 96,
+    "name": "Aravind Balla",
+    "db_folder": "aravindb",
+    "email": "bsaaravind@gmail.com",
+    "college": 13,
+    "dropped_out": false
+  },
+  {
+    "id": 97,
+    "name": "Aravind M",
+    "db_folder": "aravindm",
+    "email": "makaravind11195@gmail.com",
+    "college": 13,
+    "dropped_out": false
+  },
+  {
+    "id": 98,
+    "name": "B Anil Kumar",
+    "db_folder": "anil",
+    "email": "tech1arb@gmail.com",
+    "college": 13,
+    "dropped_out": false
+  },
+  {
+    "id": 99,
+    "name": "CHETAN BOMMU",
+    "db_folder": "chetan",
+    "email": "chetankumar.ck555@gmail.com",
+    "college": 13,
+    "dropped_out": false
+  },
+  {
+    "id": 100,
+    "name": "chilakurthi venkata naresh",
+    "db_folder": "venkatan",
+    "email": "nareshchilukurthi@gmail.com",
+    "college": 13,
+    "dropped_out": false
+  },
+  {
+    "id": 101,
+    "name": "Grandhi Eswar Sri Krishna Teja",
+    "db_folder": "krishna",
+    "email": "srikrishnateja.grandhi@gmail.com",
+    "college": 13,
+    "dropped_out": false
+  },
+  {
+    "id": 102,
+    "name": "Mahikanth Nag Yalamarthi",
+    "db_folder": "mahikanth",
+    "email": "babanag95@gmail.com",
+    "college": 13,
+    "dropped_out": false
+  },
+  {
+    "id": 103,
+    "name": "Manasa Ravali Chenna",
+    "db_folder": "ravalicm",
+    "email": "cmravali@gmail.com",
+    "college": 13,
+    "dropped_out": false
+  },
+  {
+    "id": 104,
+    "name": "Nithya Sri Nalavelli",
+    "db_folder": "nithya",
+    "email": "hello4nithya@gmail.com",
+    "college": 13,
+    "dropped_out": false
+  },
+  {
+    "id": 105,
+    "name": "Phanindra KN",
+    "db_folder": "phanindra",
+    "email": "phani.kothoori@gmail.com",
+    "college": 13,
+    "dropped_out": false
+  },
+  {
+    "id": 106,
+    "name": "Piyush Sanghi",
+    "db_folder": "piyush",
+    "email": "piyushsanghi23@gmail.com",
+    "college": 13,
+    "dropped_out": false
+  },
+  {
+    "id": 107,
+    "name": "Praneeth Arugula",
+    "db_folder": "praneeth",
+    "email": "praneetharugula@hotmail.com",
+    "college": 13,
+    "dropped_out": false
+  },
+  {
+    "id": 108,
+    "name": "shabnam",
+    "db_folder": "shabnam",
+    "email": "shabnamnaaz95@gmail.com",
+    "college": 13,
+    "dropped_out": false
+  },
+  {
+    "id": 109,
+    "name": "srujan belde",
+    "db_folder": "srujan",
+    "email": "srujanbelde18@gmail.com",
+    "college": 13,
+    "dropped_out": false
+  },
+  {
+    "id": 110,
+    "name": "Sunkara Naga Sai Ramya Sowjanya",
+    "db_folder": "sowjanya",
+    "email": "ramyasowjanya.s@gmail.com",
+    "college": 13,
+    "dropped_out": false
+  },
+  {
+    "id": 111,
+    "name": "Vineetha K",
+    "db_folder": "vineetha",
+    "email": "vineetha.muni@gmail.com",
+    "college": 13,
+    "dropped_out": false
+  },
+  {
+    "id": 112,
+    "name": "Chadaram Sai Seshu",
+    "db_folder": "seshu",
+    "email": "seshu1729@gmail.com",
+    "college": 14,
+    "dropped_out": false
+  },
+  {
+    "id": 113,
+    "name": "U.Divya",
+    "db_folder": "divya",
+    "email": "undidivya1996@gmail.com",
+    "college": 14,
+    "dropped_out": false
+  },
+  {
+    "id": 114,
+    "name": "Burra Rohith Kumar",
+    "db_folder": "rohithb",
+    "email": "iamrohit7@gmail.com",
+    "college": 15,
+    "dropped_out": false
+  },
+  {
+    "id": 115,
+    "name": "Gangina Devisri ",
+    "db_folder": "devisri",
+    "email": "devisrigangina@gmail.com",
+    "college": 15,
+    "dropped_out": false
+  },
+  {
+    "id": 116,
+    "name": "Rushendra Babu.Mogallapu",
+    "db_folder": "rushendra",
+    "email": "rushicsevit@gmail.com",
+    "college": 15,
+    "dropped_out": false
+  },
+  {
+    "id": 117,
+    "name": "akdjsdnk",
+    "db_folder": "skc",
+    "email": "dsfklvn@kdlcn.kfm",
+    "college": 23,
+    "dropped_out": false
+  },
+  {
+    "id": 120,
+    "name": "Banda Sanjay Reddy",
+    "db_folder": "sanjay",
+    "email": "sanjayreddy.banda@gmail.com",
+    "college": 13,
+    "dropped_out": false
+  }
+]
